@@ -11,12 +11,6 @@ Application to Prevent and Detect Accidents
 
 # Screenshots
 
-<p align="" >
-  <img src="https://user-images.githubusercontent.com/64214943/191169972-a2d28610-15df-47d7-9edf-7e82af5ba178.png" width="250" margin=10px>
-  <img src="https://user-images.githubusercontent.com/64214943/191170013-7f5a6984-3dc2-440b-8094-a2200fa8b2f3.png" width="250" alt="accessibility text">
-  <img src="https://user-images.githubusercontent.com/64214943/191170023-127ef291-8f87-4338-aa13-61fb459b1fed.png" width="250">
 
-  <img src="https://user-images.githubusercontent.com/64214943/191170056-3a6163b1-c972-455b-836a-17f6f5fe98f8.png" width="250">
-  <img src="https://user-images.githubusercontent.com/64214943/191170091-ce10bde7-33ce-4ae8-a38e-e27e7e925f11.png" width="250">
-  
-</p>
+![Screenshot 2023-01-30 at 11 02 41 AM](https://user-images.githubusercontent.com/52146171/215398954-f400aba3-d529-4150-9239-b395b85a8751.png)
+![Screenshot 2023-01-30 at 11 03 35 AM](https://user-images.githubusercontent.com/52146171/215398963-41af6968-5ae9-42dd-b067-a5d475859e8f.png)
